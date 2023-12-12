@@ -1,0 +1,103 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "description": "Delicious pizza with various toppings.",
+      "price": 12.99,
+      "image": "../utilitis/images/pizza.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "description": "Juicy burger with fries.",
+      "price": 8.99,
+      "image": "../utilitis/images/pizza.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pasta",
+      "description": "Spaghetti with marinara sauce.",
+      "price": 10.49,
+      "image": "../utilitis/images/pizza.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sushi",
+      "description": "Fresh sushi rolls with wasabi and soy sauce.",
+      "price": 15.99,
+      "image": "../utilitis/images/pizza.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Salad",
+      "description": "Fresh garden salad with vinaigrette dressing.",
+      "price": 6.99,
+      "image": "../utilitis/images/pizza.jpg"
+    }
+  ],
+  "businessLunch":[
+    {
+      "id": 1,
+      "name": "Salmon Dish",
+      "description": "Grilled salmon with a side of vegetables.",
+      "price": 14.99,
+      "image": "../utilitis/images/salmon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Plate",
+      "description": "Roasted chicken served with potatoes and greens.",
+      "price": 11.99,
+      "image": "../utilitis/images/chicken.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Onion Soup",
+      "description": "Classic onion soup with croutons and melted cheese.",
+      "price": 8.99,
+      "image": "../utilitis/images/onion_soup.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vegetarian Wrap",
+      "description": "Fresh vegetable wrap with hummus and feta.",
+      "price": 9.99,
+      "image": "../utilitis/images/vegetarian_wrap.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Beef Stir-Fry",
+      "description": "Sizzling beef stir-fry with broccoli and rice.",
+      "price": 13.99,
+      "image": "../utilitis/images/beef_stir_fry.jpg"
+    }
+  ],
+  "addons": [
+    {
+      "id" : 1,
+      "name" : "Add Bacon",
+      "price": 1.99
+    },
+    {
+      "id" : 2,
+      "name" : "Add Cheese",
+      "price": 2.99
+    },
+    {
+      "id" : 3,
+      "name" : "Add Sauce",
+      "price": 1.0
+    },
+    {
+      "id" : 4,
+      "name" : "Add Masala",
+      "price": 0.99
+    },
+    {
+      "id" : 5,
+      "name" : "Add topings",
+      "price": 4.99
+    }
+  ]
+}
